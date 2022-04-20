@@ -2,9 +2,7 @@
 
 ## Manipulación de bases de datos de indicadores económicos en R
 
-Facilitador: Raúl Israel Díaz Salazar
-
-Bienvenido a este curso de R, los temas a aprender son:
+Temario:
 
 1\. Introducción a R.
 
@@ -15,3 +13,5 @@ Bienvenido a este curso de R, los temas a aprender son:
 5\. Fusión de bases de datos.
 
 6\. Manipulación de series de tiempo.
+
+Facilitador: Raúl Israel Díaz Salazar.
