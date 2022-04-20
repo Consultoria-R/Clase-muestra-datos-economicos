@@ -1,4 +1,4 @@
-# Curso-datos-economicos en R
+# Clase-muestra-datos-economicos en R
 
 ## Manipulación de bases de datos de indicadores económicos en R
 
